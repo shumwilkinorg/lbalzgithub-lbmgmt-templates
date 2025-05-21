@@ -9,7 +9,7 @@ on:
         type: string
       terraform_cli_version:
         description: 'Terraform CLI Version'
-        default: 'latest'
+        default: '1.11.4'
         type: string
 
 jobs:
